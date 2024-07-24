@@ -1,7 +1,8 @@
 
 # Terraform Project
 
-This repository contains Terraform configurations for managing infrastructure.
+This repository contains Terraform configurations for managing infrastructure. 
+****Replace the resource group mame with whatever you want in variables.tf*******
 
 ## Getting Started
 
